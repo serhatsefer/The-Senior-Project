@@ -1,0 +1,14 @@
+* Veritabanýna yeni bir yüz eklemek için addnewface.py çalýþtýrýlýr.
+  -c parametresi veritabanýný temizler.
+  -a parametresi Person klasörü içerisindeki .jpg dosyalý yüzlerin hepsini veritabanýna ekler.
+
+Örnek : python3 addnewface.py -c 1 -a 1
+
+* Gerçek zamanlý görüntü iþlemeyi baþlatmak için main.py çalýþtýrýlýr.
+  -i parametresi mikrodenetleyicinin IP adresini alýr.
+  -c parametresi ethereum contract adresini alýr.
+  -t parametresi paranýn gönderileceði hesap adresini alýr.
+  -e parametresi mail özelliði aktifse yüz algýlandýðýnda yüz fotoðrafýnýn gönderileceði
+     mail adresini alýr. (opsiyonel)
+
+Örnek: python3 main.py -i "192.168.1.103" -c "0x8b2f0388e57ac7a740931687c181999cd881c4a9" -t "0x60a716a961a173a8cdba3589e2119150b908a194" -e "ssefer@gtu.edu.tr"

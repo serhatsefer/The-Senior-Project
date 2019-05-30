@@ -1,0 +1,4 @@
+* Projeyi açmak için MDK-ARM klasörü içinde yer alan esp_last.uvprojx dosyasý KEIL IDE'de
+  çalýþtýrýlmalýdýr.
+
+* Projenin kaynak kodlarý Src (.c dosyalarý) ve Inc (.h dosyalarý) klasörlerinde yer almaktadýr.

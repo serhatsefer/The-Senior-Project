@@ -1,0 +1,10 @@
+esp8266.c:52:6:HAL_UART_RxCpltCallback	16	static
+esp8266.c:129:6:clear_rcvbuffer	8	static
+esp8266.c:137:7:Send_ESP	16	static
+esp8266.c:150:7:Send_ESP_Conc	24	static
+esp8266.c:166:7:Send_ESP_Connect	24	static
+esp8266.c:182:7:Get_IP	16	static
+esp8266.c:208:7:ESP_Init	32	static
+esp8266.c:383:6:ESP_Login	8	static
+esp8266.c:284:6:ESP_Read	16	static
+esp8266.c:436:6:ESP_TCP	8	static

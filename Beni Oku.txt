@@ -1,0 +1,33 @@
+***********************************************************************
+
+			     GEBZE TEKNÝK ÜNÝVERSÝTESÝ
+			   ELEKTRONÝK MÜHENDÝSLÝÐÝ BÖLÜMÜ
+				
+
+			     LÝSANS BÝTÝRME PROJESÝ 2
+				 PROJE DOSYALARI
+
+                                 - Mayýs 2019 -
+
+				
+			     ### Serhat SEFER ### 
+		               ## 141024040 ##
+
+			       Çalýþma Yöneticisi
+		            Dr.Öðr.Üyesi Önder ÞUVAK
+
+
+***********************************************************************
+
+============================= AÇIKLAMALAR =============================
+
+- Proje Ethereum_Smart_Contract,Görüntü_Ýþleme_Kaynak_Kodlarý ve Mikrodenetleyici_Proje_Dosyasý Olarak
+  3'e ayrýlmýþtýr.
+
+- Proje raporu,sunumu ve videosu dosyaya eklenmiþtir.
+
+- * Ethereum_Smart_Contact Remix IDE (http://remix.ethereum.org) adresinde yazýlmýþtýr.
+
+- * Görüntü_Ýþleme_Kaynak_Kodlarý Python 3.7 kullanýlarak yazýlmýþtýr.
+
+- * Mikrodenetleyici_Proje_Dosyasý Keil uVision5 kullanýlarak yazýlmýþtýr.

@@ -1,0 +1,5 @@
+* Bu akýllý sözleþme (smart contract) (smartcontract.sol) "http://remix.ethereum.org" adresindeki Remix IDE 
+  kullanýlarak hazýrlanmýþtýr.
+
+* Kod derlendikten sonra IDE'den ABI oluþturulmuþ ve bu ABI görüntü iþleme kýsmýnda yer alan bank.abi dosyasýnýn 
+  içine yazýlmýþtýr.

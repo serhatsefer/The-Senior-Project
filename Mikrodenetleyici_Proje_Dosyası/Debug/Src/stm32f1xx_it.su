@@ -1,0 +1,16 @@
+core_cm3.h:1616:22:NVIC_SystemReset	0	static
+stm32f1xx_it.c:73:6:NMI_Handler	8	static
+stm32f1xx_it.c:86:6:HardFault_Handler	8	static
+stm32f1xx_it.c:103:6:MemManage_Handler	8	static
+stm32f1xx_it.c:118:6:BusFault_Handler	8	static
+stm32f1xx_it.c:133:6:UsageFault_Handler	8	static
+stm32f1xx_it.c:148:6:SVC_Handler	8	static
+stm32f1xx_it.c:161:6:DebugMon_Handler	8	static
+stm32f1xx_it.c:174:6:PendSV_Handler	8	static
+stm32f1xx_it.c:187:6:SysTick_Handler	0	static
+stm32f1xx_it.c:208:6:FLASH_IRQHandler	0	static
+stm32f1xx_it.c:222:6:RCC_IRQHandler	0	static
+stm32f1xx_it.c:235:6:I2C1_EV_IRQHandler	0	static
+stm32f1xx_it.c:249:6:I2C1_ER_IRQHandler	0	static
+stm32f1xx_it.c:263:6:USART1_IRQHandler	0	static
+stm32f1xx_it.c:276:7:HAL_UART_ErrorCallback	8	static

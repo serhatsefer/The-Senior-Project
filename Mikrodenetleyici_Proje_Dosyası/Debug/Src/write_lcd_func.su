@@ -1,0 +1,6 @@
+write_lcd_func.c:9:6:send_intro_lcd	8	static
+write_lcd_func.c:44:6:send_connected_lcd	8	static
+write_lcd_func.c:62:6:send_not_connected_lcd	8	static
+write_lcd_func.c:80:6:send_ready_lcd	16	static
+write_lcd_func.c:103:6:send_object_detected	8	static
+write_lcd_func.c:115:6:send_wifi_disconnected	8	static
